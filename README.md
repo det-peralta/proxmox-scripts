@@ -56,7 +56,7 @@ bash
 
 Copy code
 
-`./setup_vm.sh win-xp.iso /mnt/elements-drive/template/iso elements elements 20G 2048 2 windows-xp`
+`./setup_vm.sh win-xp.iso /mnt/elements-drive/template/iso elements 20G 2048 2 windows-xp`
 
 This command sets up a Windows XP VM named `windows-xp` with 2 CPU cores, 2048 MB of RAM, a 20 GB disk, and boots from the `win-xp.iso` located at `/mnt/elements-drive/template/iso`.
 
